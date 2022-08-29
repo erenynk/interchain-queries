@@ -31,3 +31,4 @@ chains:
     output-format: json
     sign-mode: direct
 cl: {}
+EOF
